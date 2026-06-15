@@ -18,3 +18,4 @@ local.properties
 
 # Kotlin/Native cache
 .konan/
+.kotlin/
